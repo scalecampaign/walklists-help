@@ -11,7 +11,7 @@ To install it use this <a href="https://opensource.com/article/20/7/docsify-gith
 go to the directory, run the following command first time only, otherwise it will overwrite the exisitinng index html and delete all work indexes and links
 
 ```bash
-docify init
+docsify init
 ```
 
 Then run this command, or after the first time, always run it directly

@@ -8,7 +8,7 @@
 	  * [Can this app help us collect data of voters](./tutorials/faq/canvassing-app/question-2/index)
 	  * [How to reduce secretary of state list to walk list](./tutorials/faq/canvassing-app/question-3/index)
 	* [Data Hub](./tutorials/faq/datahub/index)
-	  * [Question 1](./tutorials/faq/datahub/question-1/index)
+	  * [What exactly is included in the "voter data" you're offering?](./tutorials/faq/datahub/question-1/index)
 	  * [Question 2](./tutorials/faq/datahub/question-2/index)
 * [Tutorials](./tutorials/index)  
   * [SignUp](./tutorials/signup/index)

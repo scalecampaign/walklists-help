@@ -1,16 +1,11 @@
 <!-- docs/_sidebar.md -->
 
 
-* [WalkLists HOME](./)
-* [FAQ](./tutorials/faq/index)
-    * [Canvassing App](./tutorials/faq/canvassing-app/index)
-	  * [I have the list in CSV - under 10,000 voters](./tutorials/faq/canvassing-app/question-1/index)
-	  * [Can this app help us collect data of voters](./tutorials/faq/canvassing-app/question-2/index)
-	  * [How to reduce secretary of state list to walk list](./tutorials/faq/canvassing-app/question-3/index)
-	* [Data Hub](./tutorials/faq/datahub/index)
-	  * [What exactly is included in the "voter data" you're offering?](./tutorials/faq/datahub/question-1/index)
-	  * [Question 2](./tutorials/faq/datahub/question-2/index)
-* [Tutorials](./tutorials/index)  
+* [ACENji HOME](./)
+
+* [Tutorials](./tutorials/index)
+  * [FAQ](./tutorials/faq/index)
+    * [Question1](./tutorials/faq/question-1/index)
   * [SignUp](./tutorials/signup/index)
   * [Cards](./tutorials/cards/index)
     * [Elements](./tutorials/cards/elements/index)

@@ -1,11 +1,15 @@
 <!-- docs/_sidebar.md -->
 
 
-* [ACENji HOME](./)
-
-* [Tutorials](./tutorials/index)
-  * [FAQ](./tutorials/faq/index)
-    * [Question1](./tutorials/faq/question-1/index)
+* [WalkLists HOME](./)
+* [FAQ](./tutorials/faq/index)
+    * [Canvassing App](./tutorials/faq/canvassing-app/index)
+	  * [Question 1](./tutorials/faq/canvassing-app/question-1/index)
+	  * [Question 2](./tutorials/faq/canvassing-app/question-2/index)
+	* [Data Hub](./tutorials/faq/datahub/index)
+	  * [Question 1](./tutorials/faq/datahub/question-1/index)
+	  * [Question 2](./tutorials/faq/datahub/question-2/index)
+* [Tutorials](./tutorials/index)  
   * [SignUp](./tutorials/signup/index)
   * [Cards](./tutorials/cards/index)
     * [Elements](./tutorials/cards/elements/index)

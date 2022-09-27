@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [ACENji HOME](./)
+* [WalkLists HOME](./)
 
 * [Tutorials](./tutorials/index)
   * [FAQ](./tutorials/faq/index)

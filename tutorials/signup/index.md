@@ -1,14 +1,14 @@
-# SignUp for ACENji
+# SignUp for WalkLists
 
-Sign up for ACENji is a very stright process. Only  one person from an entity needs to sign up and then they can add additional users internally who will have their onboarding process but that is different from the initial signup
+Sign up for WalkLists is a very straight process. For all services user needs to sign up just once, regardless if Data Hub or Canvassing apps are the focus of the signing.
 
-For a start you can do it on mobile or Web broser by going on  <a href="https://acenji.com" target="_blank">ACENji NoCode Platform </a> 
+For a start you can do it on mobile or Web broser by going on  <a href="https://walklists.com" target="_blank">WalkLists Platform </a> 
 
 [filename](HowToSignupWithAcenjiNoCodePlatform.mp4 ':include :type=video')
 
 There are two ways to start the sign up process
 
-1. Sign up directly by clicking on the **Cards** button 
+1. Sign up directly by clicking on the **Sign Up** button from the main menu.
 
 
 ![image0](../../images/signup/signup1.png)
@@ -21,16 +21,11 @@ That open s form page where basic information is collected.
 
 ![image5](../../images/signup/signup5.png)
   
-After filling the basic company and address information user can decide what subscription plan is best suited for his company.
-ACENji offers three plans, each one is designed for different type of company. After user selects the the actual plan, user is finally redirect to complete the onboarding inside ACENhi admin page.
-
-![image6](../../images/signup/signup6.png)
+After filling the basic Information user clicks Sign Up button from the form. Signing Up in the system is free.
  
-2. Signup by clicking **Join now** button. 
+2. Signup by an invite. 
 
-![image2](../../images/signup/signup2.png)
-
-After that the process is indentical with the previous approach. 
+The second option for signing up in the system is when admin or co-admin to a campaign sent an invite to a user. The invite comes in the form of an email and asks the user to sign up in the system in order to get access to the allocated campaign under their name. 
  
 
   

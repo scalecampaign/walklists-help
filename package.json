@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docsify-example-panels": "^1.1.0"
+  }
+}

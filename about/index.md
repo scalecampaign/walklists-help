@@ -1,4 +1,4 @@
-# About WalkLists Tutorial
+# About ACENji Tutorial
 
-This site tutorial was generated for the canvassing App and data Hub platfrom <a href="https://WalkLists.com" target=_self >WalkLists</a>.
+This site tutorial was generated for the no-code platfrom <a href="https://ACENji.com" target=_self >ACENji</a>.
  

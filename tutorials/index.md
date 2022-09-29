@@ -1,14 +1,11 @@
 
 # Tutorials for every Campaign staff, Volunteer, Sales guro , Citizen developer, and Entrepreneur. 
 
-The user can learn about **Canvassing Apps** and **Data Hub** immediatelly here and be run their tasks/campaigns wihtin minutes.
+The user can learn about **Canvassing Apps** and **Data Hub** immediatelly here and can run their tasks/campaigns wihtin minutes.
 
 We separated the tutorial into two sections to provide some clarity:
 - section one is all about canvassing
 - section two is all about the data.  
-
-Learn about all these great no-code technologies powered by ACENji. 
-Have an idea and time to spare, dive in and let's roll!
 
 [Canvassing Apps](../tutorials/canvassing-apps/index.md)
 [Data Hub](../tutorials/data-hub/index.md)

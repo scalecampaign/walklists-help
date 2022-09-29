@@ -1,15 +1,16 @@
 
-# Tutorials for every technologist, citizen developer, and Entrepreneur 
+# Tutorials for every Campaign staff, Volunteer, Sales guro , Citizen developer, and Entrepreneur. 
+
+The user can learn about **Canvassing Apps** and **Data Hub** immediatelly here and be run their tasks/campaigns wihtin minutes.
+
+We separated the tutorial into two sections to provide some clarity:
+- section one is all about canvassing
+- section two is all about the data.  
 
 Learn about all these great no-code technologies powered by ACENji. 
 Have an idea and time to spare, dive in and let's roll!
-[FAQ](../../tutorials/faq/index.md)
-[Cards](../../tutorials/cards/index.md)
-[Forms](../../tutorials/forms/index.md)
-[Staff](../../tutorials/staff/index.md)
 
-[filename](Helloworld.mp4 ':include :type=video')
+[Canvassing Apps](../tutorials/canvassing-apps/index.md)
+[Data Hub](../tutorials/data-hub/index.md)
 
 
-
-[filename](DownloadCaresteps.mp4 ':include :type=video')

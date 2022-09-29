@@ -17,7 +17,7 @@
    
 * [Tutorials](./tutorials/index)
   * [SignUp](./tutorials/signup/index)
-  * [Login / Logout / Password](./tutorials/signup/index)
+  * [Login / Logout / Password](./tutorials/login-logout-password/index)
   * [Canvassing Apps](./tutorials/canvassing-app/index)    
   * [Data Hub](./tutorials/data-hub/index)    
 * [About](./about/index)

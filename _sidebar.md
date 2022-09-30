@@ -19,7 +19,7 @@
   * [SignUp](./tutorials/signup/index)
   * [Login / Logout / Password](./tutorials/login-logout-password/index)
   * [Canvassing Apps](./tutorials/canvassing-app/index) 
-    * [How to upload data?](./tutorials/canvassing-app/upload-file/index)   
+    * [Importing Data](./tutorials/canvassing-app/import-file/index)   
   * [Data Hub](./tutorials/data-hub/index)    
 * [About](./about/index)
 * [Contact](./contact/index)

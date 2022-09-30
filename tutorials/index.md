@@ -7,7 +7,8 @@ We separated the tutorial into two sections to provide some clarity:
 - section one is all about canvassing
 - section two is all about the data.  
 
-[Canvassing Apps](../tutorials/canvassing-apps/index.md)
-[Data Hub](../tutorials/data-hub/index.md)
+[Canvassing Apps](../tutorials/canvassing-apps/index.md) | [Data Hub](../tutorials/data-hub/index.md)
+
+[Home](./README) | [FAQ](./faq/index) | [Tutorials](./tutorials/index) | [About](./about/index) | [Contact](./contact/index)
 
 

@@ -21,7 +21,7 @@ on use, so please read all license agreements before purchasing. </p>
 In the end, here is my advice to you: 
 # Play the game to win it!
 
-[Contact us](../../contact/index.md).
+[Home](./README) | [FAQ](./faq/index) | [Tutorials](./tutorials/index) | [About](./about/index) | [Contact](./contact/index)
 
 
  

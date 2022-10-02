@@ -12,5 +12,11 @@ Here are some of the most popular questions and answers we are getting for Canva
 
 
 
+[FAQ DataHub App](./faq/data-hub/index)
+
+[Home](./README) | [FAQ](./faq/index) | [Tutorials](./tutorials/index) | [About](./about/index) | [Contact](./contact/index)
+
+
+
 
 

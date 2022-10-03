@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Home](./README)
+* [Start](./README)
 * [FAQ](./faq/index)
   * [FAQ Canvassing App](./faq/canvassing-app/index)
     * [Question 1](./faq/canvassing-app/question-1/index)
@@ -16,7 +16,9 @@
   * [SignUp](./tutorials/signup/index)
   * [Login / Logout / Password](./tutorials/login-logout-password/index)
   * [Canvassing Apps](./tutorials/canvassing-app/index) 
-    * [Data Import](./tutorials/canvassing-app/import-file/index) 
+    * [Data Import](./tutorials/canvassing-app/import-file/index)
+    * [Create a Walklis](./tutorials/canvassing-app/create-a-walklist/index)
+    * [Edit a Walklis Layout](./tutorials/canvassing-app/edit-walklist-layout/index)   
     * [Payment](./tutorials/canvassing-app/payment/index)  
   * [Data Hub](./tutorials/data-hub/index) 
     * [Introduction](./tutorials/introduction/index) 
@@ -32,3 +34,4 @@
 * [Contact](./contact/index)
 * [Partnerships](./partnerships/index)
 * [For Developers](./)
+* [Go Back to WalkLists.com](./goback/index)
